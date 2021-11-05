@@ -1,1 +1,1 @@
-ln -sv “~/.dotfiles/.test ~
+ln -sv “~/dotfiles/.test ~
